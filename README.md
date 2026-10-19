@@ -14,3 +14,15 @@ Interpiler is a simple yet powerful programming language, inspired by Python, de
 ![alt text](https://github.com/isefV/Interpiler/blob/master/Screenshots/inter-1.jpg?raw=true)
 
 ![alt text](https://github.com/isefV/Interpiler/blob/master/Screenshots/inter-2.jpg?raw=true)
+
+## Building
+
+A Visual Studio C++ project (`Interpiler.sln`). Open it in Visual Studio and build, or build from the command line with MSBuild:
+
+```bash
+msbuild Interpiler.sln /p:Configuration=Release
+```
+
+## License
+
+Released under the [MIT License](LICENSE).
